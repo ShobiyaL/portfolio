@@ -65,6 +65,21 @@ function Skills (){
                       <div><h4>SQL</h4></div>
                       
                     </article>
+                    <article className="skills__details">
+                      <BsPatchCheckFill className="skills__details-icon"/>
+                      <div><h4>AWS</h4></div>
+                      
+                    </article>
+                    <article className="skills__details">
+                      <BsPatchCheckFill className="skills__details-icon"/>
+                      <div><h4>DSA</h4></div>
+                      
+                    </article>
+                    <article className="skills__details">
+                      <BsPatchCheckFill className="skills__details-icon"/>
+                      <div><h4>System Design</h4></div>
+                      
+                    </article>
                 </div>
             </div>
           </div>
