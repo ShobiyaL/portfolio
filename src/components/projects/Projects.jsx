@@ -18,9 +18,9 @@ function Projects (){
                 </div>
                 <h3>Movie-Ticket-Booking</h3>
                 <div className="projects__cta">
-                <a href="https://courageous-crumble-60e886.netlify.app/" target="_blank" className="btn btn-primary">Live-Demo</a>
-                <a href="https://github.com/ShobiyaL/Movie-Ticket-Application-backend" target="_blank" className="btn ">Back-end</a>
-                <a href="https://github.com/ShobiyaL/movie-ticket-app-client/" target="_blank" className="btn">Front-end</a>
+                <a href="https://movie-ticket-booking-c2f740.netlify.app/" target="_blank" className="btn btn-primary">Live-Demo</a>
+                <a href="https://github.com/ShobiyaL/movie-ticket-app-server.git" target="_blank" className="btn ">Back-end</a>
+                <a href="https://github.com/ShobiyaL/movie-ticket-app-client-2023-.git" target="_blank" className="btn">Front-end</a>
 
                 </div>
             </article>
