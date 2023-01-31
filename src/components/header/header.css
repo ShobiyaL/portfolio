@@ -18,6 +18,7 @@ header{
     display:flex;
     gap:1rem;
     justify-content:center;
+    
 }
 /* .photo{
     background:linear-gradient(,transparent);
