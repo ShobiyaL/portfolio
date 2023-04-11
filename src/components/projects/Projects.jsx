@@ -1,6 +1,8 @@
 import React from "react";
 import "./projects.css";
+import ecomAppimg from "../../assets/landing.jpg"
 import projectImage from "../../assets/portfolio5.png"
+
 function Projects (){
     // let projects=[{
     //     title:"",
@@ -38,13 +40,13 @@ function Projects (){
             </article>
             <article className="projects__item">
                 <div className="projects__item-image">
-                  <img src={projectImage} alt="..." />
+                  <img src='https://images-eu.ssl-images-amazon.com/images/W/IMAGERENDERING_521856-T1/images/G/31/img22/Electronics/Clearance/Clearance_store_Desktop_CC_1x._SY304_CB628315133_.jpg' alt="..." style={{height:'240px'}} />
                 </div>
-                <h3>Equipment-Rent-App</h3>
+                <h3>ECom-App</h3>
                 <div className="projects__cta">
-                <a href="https://equip-rental-dfbf7e.netlify.app/" target="_blank" className="btn btn-primary">Live-Demo</a>
-                <a href="https://github.com/ShobiyaL/equipment-rental-app-server.git" target="_blank" className="btn ">Back-end</a>
-                <a href="https://github.com/ShobiyaL/equipment-rental-client.git" target="_blank" className="btn">Front-end</a>
+                <a href="https://e-commerce-web-app-client-8ddee5.netlify.app/" target="_blank" className="btn btn-primary">Live-Demo</a>
+                <a href="https://github.com/ShobiyaL/e-commerce-web-app-server.git" target="_blank" className="btn ">Back-end</a>
+                <a href="https://github.com/ShobiyaL/e-commerce-web-app-client.git" target="_blank" className="btn">Front-end</a>
 
                 </div>
             </article>
