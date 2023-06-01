@@ -21,7 +21,7 @@ function Projects (){
                 </div>
                 <h3>Chat-App</h3>
                 <div className="projects__cta">
-                <a href="https://chat-client-ea37c6.netlify.app/chat-page" target="_blank" className="btn btn-primary">Live-Demo</a>
+                <a href="https://chat-client-ea37c6.netlify.app" target="_blank" className="btn btn-primary">Live-Demo</a>
                 <a href="https://github.com/ShobiyaL/chat_server.git" target="_blank" className="btn ">Back-end</a>
                 <a href="https://github.com/ShobiyaL/chat_client.git" target="_blank" className="btn">Front-end</a>
 
