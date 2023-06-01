@@ -14,27 +14,16 @@ function Projects (){
          <h2>Projects</h2>
          <div className="container projects__container">
            
-         <article className="projects__item">
-                <div className="projects__item-image">
-                  <img src={projectImage} alt="..." />
-                </div>
-                <h3>Movie-Ticket-Booking</h3>
-                <div className="projects__cta">
-                <a href="https://movie-ticket-booking-c2f740.netlify.app/" target="_blank" className="btn btn-primary">Live-Demo</a>
-                <a href="https://github.com/ShobiyaL/movie-ticket-app-server.git" target="_blank" className="btn ">Back-end</a>
-                <a href="https://github.com/ShobiyaL/movie-ticket-app-client-2023-.git" target="_blank" className="btn">Front-end</a>
-
-                </div>
-            </article>
+         
             <article className="projects__item">
                 <div className="projects__item-image">
                   <img src={projectImage} alt="..." />
                 </div>
                 <h3>Chat-App</h3>
                 <div className="projects__cta">
-                <a href="https://whimsical-platypus-47d221.netlify.app/" target="_blank" className="btn btn-primary">Live-Demo</a>
-                <a href="https://github.com/ShobiyaL/chat-app-backend.git" target="_blank" className="btn ">Back-end</a>
-                <a href="https://github.com/ShobiyaL/chat-app-client.git" target="_blank" className="btn">Front-end</a>
+                <a href="https://chat-client-ea37c6.netlify.app/chat-page" target="_blank" className="btn btn-primary">Live-Demo</a>
+                <a href="https://github.com/ShobiyaL/chat_server.git" target="_blank" className="btn ">Back-end</a>
+                <a href="https://github.com/ShobiyaL/chat_client.git" target="_blank" className="btn">Front-end</a>
 
                 </div>
             </article>
@@ -50,6 +39,24 @@ function Projects (){
 
                 </div>
             </article>
+            <article className="projects__item">
+                <div className="projects__item-image">
+                  <img src={projectImage} alt="..." />
+                </div>
+                <h3>Movie-Ticket-Booking</h3>
+                <div className="projects__cta">
+                <a href="https://movie-ticket-booking-c2f740.netlify.app/" target="_blank" className="btn btn-primary">Live-Demo</a>
+                <a href="https://github.com/ShobiyaL/movie-ticket-app-server.git" target="_blank" className="btn ">Back-end</a>
+                <a href="https://github.com/ShobiyaL/movie-ticket-app-client-2023-.git" target="_blank" className="btn">Front-end</a>
+
+                </div>
+            </article>
+            
+            
+            
+            
+            
+            
             
          </div>
         </section>
