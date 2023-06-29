@@ -29,7 +29,7 @@ function Projects (){
             </article>
             <article className="projects__item">
                 <div className="projects__item-image">
-                  <img src='https://images-eu.ssl-images-amazon.com/images/W/IMAGERENDERING_521856-T1/images/G/31/img22/Electronics/Clearance/Clearance_store_Desktop_CC_1x._SY304_CB628315133_.jpg' alt="..." style={{height:'240px'}} />
+                  <img src={ecomAppimg} alt="..." style={{height:'240px'}} />
                 </div>
                 <h3>ECom-App</h3>
                 <div className="projects__cta">
