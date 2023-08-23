@@ -26,11 +26,12 @@ function About() {
             <b>I'm Shobiya</b>, an avid learner with a foundation in Handloom
             and Textile Technology, I've triumphantly completed the
             comprehensive (MERN) Fullstack development course facilitated by
-            GUVI. This immersive learning experience has equipped me with a
-            versatile skill set spanning the realms of MongoDB, Express, React,
-            and Node.js, empowering me to seamlessly orchestrate end-to-end web
-            solutions. My passion has evolved into the art of crafting websites
-            and embracing the challenges that emerge.
+            <i> GUVI GEEK NETWORK PRIVATE LIMITED</i>. This immersive learning
+            experience has equipped me with a versatile skill set spanning the
+            realms of MongoDB, Express, React, and Node.js, empowering me to
+            seamlessly orchestrate end-to-end web solutions. My passion has
+            evolved into the art of crafting websites and embracing the
+            challenges that emerge.
           </p>
         </div>
       </div>
